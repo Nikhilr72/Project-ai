@@ -54,3 +54,10 @@ Using nltk, and spacy, obtaining subject and predicate.
 
 UserTaskData.py: 
 Used to load statistics stored in MongoDb 
+
+times/UserTimes: 
+Used user_times.py to store data
+
+appear/vc: 
+Script developed by Suhas and called by my appear script to save and predict schedules.
+
