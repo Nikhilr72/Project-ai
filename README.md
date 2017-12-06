@@ -14,7 +14,7 @@ Includes:
 
 **-Storing data**
 
-**-Working with realtime databases	Running server side script
+**-Working with realtime databases	Running server side script**
 
 **-Sharing cards, task & card names**
 
@@ -37,7 +37,7 @@ _Goutham S P_
 These are scripts that are used to build the back-end framework, hosts the Machine Learning & integrations with various 3rd party APIs
 Includes:
 
--**Oauth2 authentication
+-**Oauth2 authentication**
 
 **-Facebook Graph API**
 
