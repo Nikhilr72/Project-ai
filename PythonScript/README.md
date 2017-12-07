@@ -124,3 +124,38 @@ _This script is going to storeand retrieve for nudged times and last visited tim
 **Reports**
 
 _Retrieve user's details to generate a user's week over week, day over day, month over month, year over year, or any specified time span_
+
+**Gmail Bots**
+
+_A simple gmail api integration which gives us access to all of the users emails (read, modify and edit - if required) once we have obtained permissions from them._
+
+**Claire Services**
+
+_This module was mainly focussed on google cloud storage. Things you can do - Creation of buckets, deletion of buckets, creation of folders on the buckets._
+
+**Telegram Bot**
+
+_A telegram bot for claire was created. This module enables you to read messages sent by users to claire bot, even reply to these messages if necessary and also download and save attachments users sent onto the google cloud storage platform._
+
+
+**Meetup API**
+
+_Meetup API integration in order for us to be able to view any persons interests, the groups that they choose to associate themselves with, the kind of events that they are a part of. Also gives information about the other people (everything from interests to groups that they are a part of) that are a part of the same group that you're a part of._ - **Incomplete**
+
+**GmailTester**
+
+_Basic statistics derived from reading a the details of person's emails. - Hustlespace.xyz_
+
+**Timezones**
+
+_Conversion of acronym of timezones to the original form and also giving out the time difference with respect to UTC._
+
+**Firebase JSON Parser**
+
+_Building a bottom up structure for processing information from tasks, cards and desks in the same order._
+
+
+
+
+
+
