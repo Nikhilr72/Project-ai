@@ -1,11 +1,15 @@
 
-This Folder contains all the Python Scripts
+## This Folder contains all the Python Scripts
 
-Contributors are: 
-Ashwin Gopi Krishna
-Suhas Dattatreya
-Kalpitha N
-Goutham S.P
+### Contributors are:
+
+_Ashwin Gopi Krishna_
+
+_Suhas Dattatreya_
+
+_Kalpitha N_
+
+_Goutham S.P_
 
 
 **home_fragment.py:**
@@ -85,7 +89,38 @@ _Script developed by Suhas and called by my appear script to save and predict sc
 
 _Scrapers for getting a company's profile given a company's link or a person's work email address_
 
+
 **Dropbox API**
 
 _Dropbox syncing with google cloud storage_
 
+
+**File Converter**
+
+_File Conversion using cloud convert API_
+
+
+**Drive Uploader**
+
+_Google Drive Upload Integration_
+
+
+**Firebase User Data Retreival**
+
+_Fire base DB integration for getting data of a user and user's associated with a particular task_
+
+**Entity Extractor**
+
+_This script is going to extract entities the following entities from an object: **Parts of Speech recognition, Intended person extraction, date time extraction**_
+
+**Time Span Identifier**
+
+_Time span recognition and retrieve user's tasks for specified time span_
+
+**MongoDB Storage and Retrieval of User Data**
+
+_This script is going to storeand retrieve for nudged times and last visited times of every user and each task within that user's account_
+
+**Reports**
+
+_Retrieve user's details to generate a user's week over week, day over day, month over month, year over year, or any specified time span_
