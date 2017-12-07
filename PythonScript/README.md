@@ -8,56 +8,84 @@ Kalpitha N
 Goutham S.P
 
 
-home_fragment.py: 
-home_fragment.js was written first in python to test the Firebase DB APIs for 		python. Works perfectly by using threading, written after launch day at Slyds
+**home_fragment.py:**
 
-user_times.py: 
-Script used to log the times in which users actively used their phones.
+_homefragment.js was written first in python to test the Firebase DB APIs for python. Works perfectly by using threading, written after launch day at Slyds_
 
-desk_fragment.py:
-Python version of desk_fragment.js (old)
+**user_times.py:**
 
-drive_client.py: 
-Drive auth via Server (abandoned)
+_Script used to log the times in which users actively used their phones._
 
-gmail_cl & gmail_client.py: 
-Gmail auth via server (abandoned)
+**desk_fragment.py:**
 
-test.py: 
-Custom google-api implementation
+_Python version of deskfragment.js (old)_
 
-temp.py: 
-Parsing through all emails (modified Kalpitha's script), failing due to api limit.
+**drive_client.py:**
 
-Play_store.py: 
-Testing script for entity extraction
+_Drive auth via Server (abandoned)_
 
-play_store_scraper.py: 
-Script used to scrape description of apps from playstore. Package names obtained from csv file.
-predict_app_category.py: 
-Loads SVM and predicts category of app based on description.(4 categories)
+**gmail_cl & gmail_client.py:**
 
-raw_emails.py: 
-Blindly dumping JSON of every email into file
+_Gmail auth via server (abandoned)_
 
-sent2tree.py: 
-Converts sentence into sentence tree
+**test.py:** 
 
-speech.py: 
-Uses MicrosoftSpeechApi to convert speech to text from file using speech.js
+_Custom google-api implementation_
 
-sug_backup.py: 
-Gives suggestions on how much time to work on a task each day
+**temp.py:**
 
-subject_and_predicate.py: 
-Using nltk, and spacy, obtaining subject and predicate.
+_Parsing through all emails (modified Kalpitha's script), failing due to api limit._
 
-UserTaskData.py: 
-Used to load statistics stored in MongoDb 
+**Play_store.py:**
 
-times/UserTimes: 
-Used user_times.py to store data
+_Testing script for entity extraction_
 
-appear/vc: 
-Script developed by Suhas and called by my appear script to save and predict schedules.
+**play_store_scraper.py:**
+
+_Script used to scrape description of apps from playstore. Package names obtained from csv file._
+
+**predict_app_category.py:**
+
+_Loads SVM and predicts category of app based on description.(4 categories)_
+
+**raw_emails.py:**
+
+_Blindly dumping JSON of every email into file_
+
+**sent2tree.py:**
+
+_Converts sentence into sentence tree_
+
+**speech.py:**
+
+_Uses MicrosoftSpeechApi to convert speech to text from file using speech.js_
+
+**sug_backup.py:**
+
+_Gives suggestions on how much time to work on a task each day_
+
+**subject_and_predicate.py:**
+
+_Using nltk, and spacy, obtaining subject and predicate._
+
+**UserTaskData.py:**
+
+_Used to load statistics stored in MongoDb_
+
+**times/UserTimes:**
+
+_Used usertimes.py to store data_
+
+**appear/vc:**
+
+_Script developed by Suhas and called by my appear script to save and predict schedules._
+
+
+**Web Scraper**
+
+_Scrapers for getting a company's profile given a company's link or a person's work email address_
+
+**Dropbox API**
+
+_Dropbox syncing with google cloud storage_
 
