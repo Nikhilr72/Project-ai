@@ -121,7 +121,7 @@ Drive authentication via Node(abandoned)
 
 Converts old checkpoint db struct to current
 
-jitsi.js: 
+**jitsi.js:**
 
 Videocalling using jitsi.
 
@@ -129,8 +129,10 @@ Videocalling using jitsi.
 
 Used to convert base64 file to text
 
-suggestions.js: 
-	Gives suggestions on how much time to work on a task each day
+**suggestions.js:**
 
-updateUsers.py: 
-	Script used to add phone number to user's authentication method, to port to new login flow.
+Gives suggestions on how much time to work on a task each day
+
+**updateUsers.py:**
+
+Script used to add phone number to user's authentication method, to port to new login flow.
