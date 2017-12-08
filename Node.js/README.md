@@ -1,4 +1,4 @@
-# Project-ai
+# Node.js Scripts
 
 This Folder contains all the Node.js scripts 
 Contributors: 
